@@ -18,3 +18,4 @@ structure:
 
 WARNING: Output signal is so-loud. Don't listen to Encoded WAVE Anyway.
 
+Usage: hacud.py <enc/dec> input.wav output.wav 
